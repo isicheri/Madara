@@ -1,7 +1,7 @@
 "use client";
 
 import Button from "@/components/Button";
-import { AudioLines, ListMusic, LucideIcon, Menu, MoonStar, Sun } from "lucide-react";
+import { LucideIcon, Menu, MoonStar, Sun } from "lucide-react";
 import { useTheme } from "next-themes";
 import Link from "next/link";
 import { Fragment, useEffect, useState } from "react";
